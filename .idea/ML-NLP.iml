@@ -4,7 +4,8 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="jdk" jdkName="Python 3.9" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="Anomaly-Detection-PatchSVDD-PyTorch" />
+    <orderEntry type="module" module-name="vision_transformer" />
+    <orderEntry type="module" module-name="patch-svdd-test" />
   </component>
   <component name="PyDocumentationSettings">
     <option name="format" value="PLAIN" />

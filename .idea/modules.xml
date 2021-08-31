@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../Anomaly-Detection-PatchSVDD-PyTorch/.idea/Anomaly-Detection-PatchSVDD-PyTorch.iml" filepath="$PROJECT_DIR$/../Anomaly-Detection-PatchSVDD-PyTorch/.idea/Anomaly-Detection-PatchSVDD-PyTorch.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ML-NLP.iml" filepath="$PROJECT_DIR$/.idea/ML-NLP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ai/patch-svdd-test/.idea/patch-svdd-test.iml" filepath="$PROJECT_DIR$/../ai/patch-svdd-test/.idea/patch-svdd-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ai/deep-learning-for-image-processing/pytorch_classification/vision_transformer/.idea/vision_transformer.iml" filepath="$PROJECT_DIR$/../ai/deep-learning-for-image-processing/pytorch_classification/vision_transformer/.idea/vision_transformer.iml" />
     </modules>
   </component>
 </project>
