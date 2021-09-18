@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/ML-NLP.iml" filepath="$PROJECT_DIR$/.idea/ML-NLP.iml" />
       <module fileurl="file://$PROJECT_DIR$/../ai/patch-svdd-test/.idea/patch-svdd-test.iml" filepath="$PROJECT_DIR$/../ai/patch-svdd-test/.idea/patch-svdd-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ai/svdd_DatasetTest/.idea/svdd_DatasetTest.iml" filepath="$PROJECT_DIR$/../ai/svdd_DatasetTest/.idea/svdd_DatasetTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/../ai/deep-learning-for-image-processing/pytorch_classification/vision_transformer/.idea/vision_transformer.iml" filepath="$PROJECT_DIR$/../ai/deep-learning-for-image-processing/pytorch_classification/vision_transformer/.idea/vision_transformer.iml" />
     </modules>
   </component>

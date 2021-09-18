@@ -6,6 +6,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="vision_transformer" />
     <orderEntry type="module" module-name="patch-svdd-test" />
+    <orderEntry type="module" module-name="svdd_DatasetTest" />
   </component>
   <component name="PyDocumentationSettings">
     <option name="format" value="PLAIN" />
